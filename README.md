@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Mobile Development Project
+- 🌱 I’m currently learning Dart, Flutter, Golang
+- 📫 How to reach me: Instagram @Donzelp__
+- ⚡ Fun fact: I was just landed here
+
+I want to become Fullstack Programmer 🧑‍💻. I am going to update for my future project.
 
 <!--
 **Donzelll/Donzelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
